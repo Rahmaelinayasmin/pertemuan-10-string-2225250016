@@ -1,0 +1,20 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# File konfigurasi lokal
+.env
+
+# Pengaturan editor
+.vscode/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
